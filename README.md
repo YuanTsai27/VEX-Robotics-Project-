@@ -1,6 +1,6 @@
 **Project Overview**
 
-This project revolves around developing an autonomous robotic solution using the VEX platform. The focus is on programming a scaled-down robotic forklift to autonomously navigate a warehouse environment, accurately pick up a payload, and return to a designated area, the functionality and efficiency for which I was tested for in person.
+This project revolves around developing an autonomous robotic solution in C language using the VEX platform. The focus is on programming a scaled-down robotic forklift to autonomously navigate a warehouse environment, accurately pick up a payload, and return to a designated area, the functionality and efficiency for which I was tested for in person.
 
 **In this robot navigation control project:**
 
